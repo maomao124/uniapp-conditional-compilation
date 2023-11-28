@@ -1,0 +1,1 @@
+<view class="content"><view class="text-area"><text data-event-opts="{{[['tap',[['show']]]]}}" class="title" bindtap="__e">微信小程序</text></view></view>
